@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f4e844e0129c4ef4990626a13ae8b6f4
+  m_SerializeEntries:
+  - m_GUID: 24125d476883bdf4496b4e2b37f04336
+    m_Address: Red
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2100000, guid: 24125d476883bdf4496b4e2b37f04336, type: 2}
+    m_TargetAsset: {fileID: 2100000, guid: 24125d476883bdf4496b4e2b37f04336, type: 2}
+  - m_GUID: 7d1d58d36a1e3a444b9c07004cba7c36
+    m_Address: Yellow
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2100000, guid: 7d1d58d36a1e3a444b9c07004cba7c36, type: 2}
+    m_TargetAsset: {fileID: 2100000, guid: 7d1d58d36a1e3a444b9c07004cba7c36, type: 2}
+  - m_GUID: 5def5b66ad4e1164ca131288287df5b7
+    m_Address: Cyan
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2100000, guid: 5def5b66ad4e1164ca131288287df5b7, type: 2}
+    m_TargetAsset: {fileID: 2100000, guid: 5def5b66ad4e1164ca131288287df5b7, type: 2}
+  - m_GUID: f31b2e24e0a803a45b02939551c61c53
+    m_Address: Pink
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2100000, guid: f31b2e24e0a803a45b02939551c61c53, type: 2}
+    m_TargetAsset: {fileID: 2100000, guid: f31b2e24e0a803a45b02939551c61c53, type: 2}
+  - m_GUID: 8a0cd5566bbdcf44eaf415a8e7342765
+    m_Address: Gray
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2100000, guid: 8a0cd5566bbdcf44eaf415a8e7342765, type: 2}
+    m_TargetAsset: {fileID: 2100000, guid: 8a0cd5566bbdcf44eaf415a8e7342765, type: 2}
+  - m_GUID: d9939a070da43024cb40305f0902d343
+    m_Address: Blue
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2100000, guid: d9939a070da43024cb40305f0902d343, type: 2}
+    m_TargetAsset: {fileID: 2100000, guid: d9939a070da43024cb40305f0902d343, type: 2}
+  - m_GUID: 187da4f82f6e0fe438944408901dccc7
+    m_Address: music
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2db429e906faf18459e8e4d3def93330
+    m_Address: sound6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7463176f2821c404c9c9d690596bc17d
+    m_Address: sound1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9f4c6cf5afbe4a64dbfa485ca282b4d3
+    m_Address: sound3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9f3a7d5b093aaca45888347bbc01464d
+    m_Address: sound5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f4de6b6164649bc4f8dd1870be6ef6bf
+    m_Address: unbreakable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: defe3dc8ee1fbc746ae827adc3701393
+    m_Address: sound4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1955a6705f2b765429cf5f1730a39674
+    m_Address: sound2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: dfc231f9ff423ff489669823cb4a8543, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 379aa75d5442c6c40915b7f3d88ed46e, type: 2}
+    - {fileID: 11400000, guid: e52bec7d91d284c40b51d6be3d8d12ea, type: 2}
